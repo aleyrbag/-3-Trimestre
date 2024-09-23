@@ -1,12 +1,18 @@
 <style>
 @import url('https://fonts.googleapis.com/css2?family=Crimson+Text:ital,wght@0,400;0,600;0,700;1,400;1,600;1,700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400..700&display=swap');
 
 :root {
-    --bg-color: rgba(0, 0, 255, 0.292);
+    --primeira-cor: #0000ff4a;
+    --segunda-cor :  #F9DEC9;
+
 }
 
 body {
-    background-color: var(--bg-color);
+    background-color: var(--segunda-cor);
+    font-family: 'Dancing Script';
+    font-style: normal;
+    font-weight: 400 700;
 }
-
+    
 </style>
