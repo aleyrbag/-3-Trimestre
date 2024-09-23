@@ -4,7 +4,6 @@
 :root {
     --primeira-cor: #0000ff4a;
     --segunda-cor :  #F9DEC9;
-
 }
 
 body {
@@ -14,7 +13,7 @@ body {
     font-weight:700;
 }
  
-h1, h2, h3, h4, h5{
+h1, h2, h3, h4, h5 {
     font-family: 'Crimson Text';
-    color:var(--primeira-cor);
+    color: var(--primeira-cor);
 }
