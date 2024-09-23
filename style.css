@@ -2,8 +2,8 @@
 @import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400..700&display=swap');
 
 :root {
-    --primeira-cor: #0000ff4a;
-    --segunda-cor : #FFFFB3;
+    --primeira-cor:#F4A261 #0000ff4a;
+    --segunda-cor : #2A9D8F;
 }
 
 body {
